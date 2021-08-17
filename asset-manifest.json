@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/mesreactdocs/static/css/main.0797f24c.chunk.css",
+    "main.js": "/mesreactdocs/static/js/main.3a5197f7.chunk.js",
+    "main.js.map": "/mesreactdocs/static/js/main.3a5197f7.chunk.js.map",
+    "runtime-main.js": "/mesreactdocs/static/js/runtime-main.4f1f7afa.js",
+    "runtime-main.js.map": "/mesreactdocs/static/js/runtime-main.4f1f7afa.js.map",
+    "static/css/2.f123b5a1.chunk.css": "/mesreactdocs/static/css/2.f123b5a1.chunk.css",
+    "static/js/2.c719c583.chunk.js": "/mesreactdocs/static/js/2.c719c583.chunk.js",
+    "static/js/2.c719c583.chunk.js.map": "/mesreactdocs/static/js/2.c719c583.chunk.js.map",
+    "index.html": "/mesreactdocs/index.html",
+    "static/css/2.f123b5a1.chunk.css.map": "/mesreactdocs/static/css/2.f123b5a1.chunk.css.map",
+    "static/css/main.0797f24c.chunk.css.map": "/mesreactdocs/static/css/main.0797f24c.chunk.css.map",
+    "static/js/2.c719c583.chunk.js.LICENSE.txt": "/mesreactdocs/static/js/2.c719c583.chunk.js.LICENSE.txt",
+    "static/media/Pong.730f1760.gif": "/mesreactdocs/static/media/Pong.730f1760.gif",
+    "static/media/slide_1.9cd17dc8.jpg": "/mesreactdocs/static/media/slide_1.9cd17dc8.jpg",
+    "static/media/slide_2.65673cb9.jpg": "/mesreactdocs/static/media/slide_2.65673cb9.jpg",
+    "static/media/slide_3.2cf142a3.jpg": "/mesreactdocs/static/media/slide_3.2cf142a3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f1f7afa.js",
+    "static/css/2.f123b5a1.chunk.css",
+    "static/js/2.c719c583.chunk.js",
+    "static/css/main.0797f24c.chunk.css",
+    "static/js/main.3a5197f7.chunk.js"
+  ]
+}
